@@ -1,0 +1,17 @@
+@font-face{
+    font-family: 'eyad';
+    src: url(../FONTS/Oswald-Regular.ttf);
+}
+
+    body{
+        font-family: 'eyad';
+    }
+    header{
+        min-height: 100vh;
+        background: 
+        linear-gradient(rgba(0, 0, 0, 0.699) ,rgba(0, 0, 0, 0.699)) ,
+        url(../images/home.jpg);
+        background-position: center;
+        background-size: cover;
+        padding-top: 150px;
+    }
